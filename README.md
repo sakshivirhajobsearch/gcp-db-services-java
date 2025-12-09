@@ -19,7 +19,7 @@ No description provided.
 
 ## 🧠 Tech Stack Used
 
-- **Detected Technologies:** GCP, Java
+- **Detected Technologies:** Java (Maven/Gradle), MySQL, GCP, Azure
 - **GitHub Topics:** None
 
 ---
